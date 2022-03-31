@@ -1,5 +1,5 @@
 # M1_March_2022
-Naming convention: "PROJECT"
+Naming convention: "M1_PROJECTGOAL"
 
 
 
